@@ -5,7 +5,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/07a0bc2a-0a40-4dfe-b98d-f26fe8809ef2/deploy-status)](https://app.netlify.com/sites/mpayne-react-reviews/deploys)
+
 
 ## Reason for choosing this project:
 
