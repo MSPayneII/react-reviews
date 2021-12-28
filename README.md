@@ -7,6 +7,7 @@
   <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/07a0bc2a-0a40-4dfe-b98d-f26fe8809ef2/deploy-status" />
 </p>
 
+
 ## Reason for choosing this project:
 
 This was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState and React in general.
